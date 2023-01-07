@@ -1,7 +1,7 @@
 import 'package:rethink_db_ns/rethink_db_ns.dart';
 
 import 'package:chat/src/models/user.dart';
-import 'package:chat/src/services/user_service_contract.dart';
+import 'package:chat/src/services/user/user_service_contract.dart';
 
 class UserService implements IUserService {
   final RethinkDb r;
