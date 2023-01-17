@@ -1,0 +1,32 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    ".dart_tool": true,
+    "LICENSE": true,
+    "chat.iml": true,
+    "CHANGELOG.md": true,
+    "analysis_options.yaml": true,
+    ".metadata": true,
+    ".vscode": true,
+    ".idea": true,
+    "README.md": true,
+    ".gitignore": true
+  },
+  "hide-files.files": [
+    ".dart_tool",
+    "LICENSE",
+    "chat.iml",
+    "CHANGELOG.md",
+    "analysis_options.yaml",
+    ".metadata",
+    ".vscode",
+    ".idea",
+    "README.md",
+    ".gitignore"
+  ]
+}
